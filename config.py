@@ -23,7 +23,7 @@ max_objet=60
 anchors=np.array([[3.0, 1.5], [2.0, 2.0], [1.5, 3.0]])
 nbr_boxes=len(anchors)
 
-batch_size=16
+batch_size=32
 
 lambda_coord=5
 lambda_noobj=0.5
