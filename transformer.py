@@ -3,6 +3,10 @@ from tensorflow import keras
 from tensorflow.keras import layers
 import datasetProcessing as data
 
+"""
+    Source: https://www.kaggle.com/code/gusthema/asl-fingerspelling-recognition-w-tensorflow/notebook
+"""
+
 class TokenEmbedding(layers.Layer):
     def __init__(self, num_vocab=1000, maxlen=100, num_hid=64):
         super().__init__()

@@ -1,5 +1,5 @@
 """
-    Source for data preprocessing: https://www.kaggle.com/code/gusthema/asl-fingerspelling-recognition-w-tensorflow/notebook
+    Source: https://www.kaggle.com/code/gusthema/asl-fingerspelling-recognition-w-tensorflow/notebook
 """
 
 
